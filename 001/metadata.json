@@ -1,0 +1,5 @@
+{
+  "name": "打磚塊",
+  "description": "Retro Neon Breakout\nA fully featured 10-level Breakout game with power-ups, special bricks, synthesized audio, and particle effects.\n設計出一個打磚塊遊戲的網頁遊戲，共10關，要有開始畫面及過關畫面 為打磚塊遊戲添加背景音樂和音效。加入球擊中磚塊、球擊中牆壁、球漏接、生命值減少、遊戲開始、關卡完成等音效。背景音樂應在遊戲進行中持續播放。為打磚塊遊戲設計並加入幾種道具和特殊磚塊。道具可以通過擊碎特定磚塊掉落，例如：加長球拍、多球、炸彈。特殊磚塊可以設計成需要多次擊中才會消失，或擊中後會觸發特殊效果。預計將網頁程式save to GitHub . 並以verce部屬網頁 將專案轉換為標準的 Vite + React 架構，讓Vercel 自動識別並處理建置。",
+  "requestFramePermissions": []
+}
