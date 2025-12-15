@@ -26,14 +26,14 @@ const App: React.FC = () => {
           {/* Using a spring themed seed for the image */}
           <img 
             src="https://picsum.photos/seed/spring/800/800" 
-            alt="Spring Scenery" 
+            alt="Festive Scenery" 
             className="w-full h-full object-cover"
           />
           
-          {/* Overlay with 'Spring' character */}
+          {/* Overlay with 'Joy' character */}
           <div className="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/10 transition-colors duration-300">
             <div className="w-24 h-24 bg-festive-red/90 rounded-full flex items-center justify-center border-2 border-festive-gold shadow-lg rotate-12 group-hover:rotate-0 transition-transform duration-500">
-               <span className="text-5xl font-serif text-white font-bold">春</span>
+               <span className="text-5xl font-serif text-white font-bold">喜</span>
             </div>
           </div>
         </div>

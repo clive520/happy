@@ -1,5 +1,5 @@
 {
-  "name": "Spring Greetings",
-  "description": "A festive static web page displaying '大家恭喜' and a spring-themed image.\n一個靜態網頁，秀出大家恭喜四個字，一張春的圖片，網頁上傳Github，並以verce部屬網頁",
+  "name": "喜",
+  "description": "A festive static web page displaying '大家恭喜' and the character 'Joy'.\n一個靜態網頁，秀出大家恭喜四個字，以及喜字的圖片，網頁上傳Github，並以verce部屬網頁",
   "requestFramePermissions": []
 }
